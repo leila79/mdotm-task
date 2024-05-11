@@ -1,7 +1,7 @@
 # SelectionTool Libraries
 
 ## Overview
-The `SelectionTool` libraries provide implementations of algorithms for finding the kth largest element in an array. Two implementations are provided: `QuickSelectionTool` and `MySelectionTool`. Both classes implement the `SelectionTool` interface.
+The `SelectionTool` libraries provide implementations of algorithms for finding the kth largest element in an array. Two implementations are provided: `QuickSelectionTool` and `MySelectionTool`.
 
 ## MySelectionTool
 ### Overview
